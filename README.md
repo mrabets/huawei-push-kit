@@ -36,6 +36,8 @@ HUAWEI_PUSH_KIT_CLIENT_SECRET=<HUAWEI_PUSH_KIT_CLIENT_SECRET>
 # 🚀 Usage
 
 ```ruby
+require 'huawei_push_kit'
+
 device_token = "<huawei_device_token>"
 client = HuaweiPushKit::Client.new
 
