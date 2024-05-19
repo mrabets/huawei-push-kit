@@ -1,6 +1,6 @@
 # 📬 Huawei Push Kit Ruby Client
 
-Welcome to the unofficial Ruby client for Huawei Push Kit, designed to seamlessly integrate Huawei Push Kit capabilities into your Ruby applications.
+Welcome to the unofficial Ruby client for [Huawei Push Kit](https://developer.huawei.com/consumer/en/hms/huawei-pushkit/), designed to seamlessly integrate Huawei Push Kit capabilities into your Ruby applications.
 
 ## 🌟 Features
 
