@@ -58,5 +58,11 @@ client.unsubscribe_from_topic("topic_name", device_token)
 
 ```
 
+# 🤝 Contributing
+Contributions are welcome! If you would like to contribute to this gem, please fork the repository and submit a pull request. Make sure to follow the existing code style and include tests for your changes.
+
+# 🔗 RubyGems
+You can find the gem on RubyGems: [huawei-push-kit](https://rubygems.org/gems/huawei-push-kit).
+
 # 🔓 License
 This gem is available as open source under the terms of the MIT License. See the LICENSE file for more details.
